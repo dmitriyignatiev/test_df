@@ -1,4 +1,5 @@
 print('hello')
 
 class Car:
-    pass
+    self.x=123
+    
